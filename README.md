@@ -140,7 +140,8 @@ See:
 
 - GitHub repository: `https://github.com/thefayth/papercut`
 - Public product route: `https://faithcheltenham.com/papercutpublic`
-- Project page draft: `wordpress/page.md`
+- Published project page: `https://faithcheltenham.com/projects/papercut/`
+- WordPress source draft: `wordpress/page.md`
 - Project status: `docs/STATUS.md`
 - Roadmap: `docs/ROADMAP.md`
 - Workflow diagrams: `docs/WORKFLOW_DIAGRAMS.md`

@@ -96,10 +96,13 @@ Generated: 2026-06-18
 - Image status: three existing Papercut poster images selected as public-safe
   candidate assets
 - Workflow status: Mermaid and SVG diagrams created with public-safe labels
-- WordPress status: draft created, not published
+- WordPress status: published
+- WordPress publication: published 2026-06-19 at
+  `https://faithcheltenham.com/projects/papercut/`
+- WordPress page ID: `154`
 - Privacy status: `READY`
 
 ## Recommended Next Action
 
-Review the live GitHub surface, then publish the WordPress page draft at
-`/projects/papercut/` when ready.
+Review the live GitHub and WordPress surfaces visually, then decide whether to
+add the Papercut project page to site navigation.

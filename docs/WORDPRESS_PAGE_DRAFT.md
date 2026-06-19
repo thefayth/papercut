@@ -18,4 +18,10 @@ Recommended featured image:
 
 Status:
 
-`DRAFT - DO NOT PUBLISH UNTIL FAITH REVIEW`
+`PUBLISHED - https://faithcheltenham.com/projects/papercut/`
+
+Publish receipt:
+
+- WordPress page ID: `154`
+- Published: 2026-06-19
+- Live smoke: HTTP `200`

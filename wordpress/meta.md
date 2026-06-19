@@ -6,7 +6,9 @@
 - Slug: `papercut`
 - Suggested path: `/projects/papercut/`
 - Parent: Projects
-- Status: Draft
+- Status: Published
+- Live URL: `https://faithcheltenham.com/projects/papercut/`
+- WordPress page ID: `154`
 
 ## SEO
 

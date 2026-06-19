@@ -66,3 +66,13 @@ Status: `READY`
 Faith requested implementation and GitHub publication. The public export passed
 the safety scan before push. Future review can still refine image choices,
 ownership language, and WordPress publishing.
+
+## WordPress Publication
+
+Published: 2026-06-19
+
+Live URL: `https://faithcheltenham.com/projects/papercut/`
+
+The live smoke check returned HTTP `200` and confirmed the page includes
+Papercut copy, the GitHub repository link, and the public/private boundary
+language.

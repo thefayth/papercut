@@ -72,4 +72,13 @@ confirm:
 - public page copy
 - image selection
 - commercial-use language
-- whether the public repository should go live now
+- ongoing WordPress polish after live publication
+
+## WordPress Status
+
+- Page status: published
+- Public URL: `https://faithcheltenham.com/projects/papercut/`
+- WordPress page ID: `154`
+- Published: 2026-06-19
+- Smoke check: HTTP `200`, page contains Papercut copy, GitHub link, and
+  public/private boundary language

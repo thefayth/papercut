@@ -59,7 +59,7 @@
 
 - [x] Draft page created
 - [x] Metadata created
-- [ ] Faith review
-- [ ] Upload/select featured image
-- [ ] Publish page
+- [x] Faith review / explicit publish instruction
+- [x] Upload/select featured image
+- [x] Publish page
 - [x] Add GitHub link after repo creation
