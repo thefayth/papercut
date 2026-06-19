@@ -56,13 +56,17 @@ Live dispatch should be treated as guarded:
 - GitHub CLI auth is valid for `thefayth` when proxy variables are cleared for
   the process.
 - `thefayth/papercut` was available when checked.
-- Repository creation and push are the remaining launch step.
+- Repository created: `https://github.com/thefayth/papercut`
+- Repository visibility: public
+- Default branch: `main`
+- Repository description, homepage, and topics are set.
 
 ## Public Readiness
 
-Status: `READY AFTER FAITH REVIEW`
+Status: `READY`
 
-Faith review should confirm:
+Faith approved implementation and GitHub publication. Future review should
+confirm:
 
 - repo slug
 - public page copy

@@ -7,11 +7,11 @@
 - [x] Chosen slug recorded: `papercut`
 - [x] Confirm `thefayth/papercut` availability
 - [ ] If taken, check `thefayth/papercut-v2`
-- [ ] Create repository only from `_github_public_export/`
-- [ ] Push public export
-- [ ] Set repository description
-- [ ] Set repository topics
-- [ ] Set homepage URL
+- [x] Create repository only from `_github_public_export/`
+- [x] Push public export
+- [x] Set repository description
+- [x] Set repository topics
+- [x] Set homepage URL
 
 ## GitHub Blockers
 
@@ -62,4 +62,4 @@
 - [ ] Faith review
 - [ ] Upload/select featured image
 - [ ] Publish page
-- [ ] Add GitHub link after repo creation
+- [x] Add GitHub link after repo creation

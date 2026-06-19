@@ -138,6 +138,7 @@ See:
 
 ## Learn More
 
+- GitHub repository: `https://github.com/thefayth/papercut`
 - Public product route: `https://faithcheltenham.com/papercutpublic`
 - Project page draft: `wordpress/page.md`
 - Project status: `docs/STATUS.md`

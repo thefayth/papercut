@@ -20,8 +20,12 @@ Generated: 2026-06-18
   for the process
 - `gh repo view thefayth/papercut`: unavailable, so `papercut` is the chosen
   canonical slug
-- Repository creation: pending
-- Push: pending
+- Repository creation: performed
+- Push: performed
+- Repository visibility: public
+- Repository URL: `https://github.com/thefayth/papercut`
+- Default branch: `main`
+- Repository metadata: description, homepage, and topics set
 
 ## Files Created
 
@@ -93,9 +97,9 @@ Generated: 2026-06-18
   candidate assets
 - Workflow status: Mermaid and SVG diagrams created with public-safe labels
 - WordPress status: draft created, not published
-- Privacy status: `READY AFTER FAITH REVIEW`
+- Privacy status: `READY`
 
 ## Recommended Next Action
 
-Initialize git inside `_github_public_export/`, create `thefayth/papercut`, and
-push only the contents of `_github_public_export/`.
+Review the live GitHub surface, then publish the WordPress page draft at
+`/projects/papercut/` when ready.

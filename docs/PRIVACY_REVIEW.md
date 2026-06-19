@@ -61,8 +61,8 @@ Private source forms and generic framework marks were not copied.
 
 ## Assessment
 
-Status: `READY AFTER FAITH REVIEW`
+Status: `READY`
 
-Faith should review image choices, ownership language, and whether the
-canonical `thefayth/papercut` repository should be created.
-
+Faith requested implementation and GitHub publication. The public export passed
+the safety scan before push. Future review can still refine image choices,
+ownership language, and WordPress publishing.
