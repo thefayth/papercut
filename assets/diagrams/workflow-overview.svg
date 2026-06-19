@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Papercut workflow overview</title>
+  <desc id="desc">Public-safe diagram showing paperwork input moving through a private queue, review layer, gated dispatch, receipts, and public surfaces.</desc>
+  <rect width="1200" height="640" fill="#f6f0e6"/>
+  <rect x="42" y="42" width="1116" height="556" rx="18" fill="#fffaf1" stroke="#101010" stroke-width="3"/>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="44" font-weight="800" fill="#101010">Papercut Workflow</text>
+  <text x="82" y="142" font-family="Arial, sans-serif" font-size="18" fill="#4a4034">Public surface, private engine, receipts always.</text>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#101010">
+    <rect x="80" y="220" width="165" height="94" rx="10" fill="#ffffff" stroke="#101010" stroke-width="3"/>
+    <text x="109" y="259" font-weight="700">Paperwork</text>
+    <text x="118" y="285">input</text>
+    <rect x="304" y="220" width="165" height="94" rx="10" fill="#ffffff" stroke="#101010" stroke-width="3"/>
+    <text x="346" y="259" font-weight="700">Private</text>
+    <text x="345" y="285">queue</text>
+    <rect x="528" y="220" width="165" height="94" rx="10" fill="#ffffff" stroke="#101010" stroke-width="3"/>
+    <text x="564" y="259" font-weight="700">Review</text>
+    <text x="571" y="285">layer</text>
+    <rect x="752" y="220" width="165" height="94" rx="10" fill="#ffffff" stroke="#101010" stroke-width="3"/>
+    <text x="788" y="259" font-weight="700">Gated</text>
+    <text x="785" y="285">dispatch</text>
+    <rect x="976" y="220" width="145" height="94" rx="10" fill="#ffffff" stroke="#101010" stroke-width="3"/>
+    <text x="1009" y="259" font-weight="700">Receipts</text>
+    <text x="1012" y="285">proof</text>
+  </g>
+  <g stroke="#101010" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M245 267h58"/>
+    <path d="M292 255l13 12-13 12"/>
+    <path d="M469 267h58"/>
+    <path d="M516 255l13 12-13 12"/>
+    <path d="M693 267h58"/>
+    <path d="M740 255l13 12-13 12"/>
+    <path d="M917 267h58"/>
+    <path d="M964 255l13 12-13 12"/>
+    <path d="M1048 314v70H386v-68"/>
+    <path d="M374 328l12-13 12 13"/>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <rect x="84" y="414" width="305" height="84" rx="10" fill="#d9442e"/>
+    <text x="112" y="452" font-size="22" font-weight="800" fill="#fffaf1">REVIEW FIRST</text>
+    <text x="112" y="478" font-size="16" fill="#fffaf1">No real send without approval.</text>
+    <rect x="448" y="414" width="305" height="84" rx="10" fill="#1f6f8b"/>
+    <text x="476" y="452" font-size="22" font-weight="800" fill="#fffaf1">PRIVATE ENGINE</text>
+    <text x="476" y="478" font-size="16" fill="#fffaf1">Vaults, records, workers stay protected.</text>
+    <rect x="812" y="414" width="305" height="84" rx="10" fill="#2f7a4f"/>
+    <text x="840" y="452" font-size="22" font-weight="800" fill="#fffaf1">PUBLIC SURFACE</text>
+    <text x="840" y="478" font-size="16" fill="#fffaf1">Docs, diagrams, status, WordPress.</text>
+  </g>
+</svg>
+

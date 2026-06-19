@@ -1,0 +1,28 @@
+flowchart TB
+  subgraph public["Public surface"]
+    readme["README and docs"]
+    diagrams["Workflow diagrams"]
+    brand["Approved brand assets"]
+    wp["WordPress draft"]
+  end
+
+  subgraph private["Private engine"]
+    source["Source code"]
+    vault["Vault and credentials"]
+    records["Uploads, signatures, faxes, packets"]
+    worker["Worker, portals, ATS, providers"]
+  end
+
+  subgraph gate["Review gates"]
+    auth["Authentication"]
+    reviewOnly["Review-only mode"]
+    approval["Per-item approval"]
+    receipt["Receipt capture"]
+  end
+
+  public --> gate
+  gate --> private
+  private --> receipt
+  receipt --> gate
+  public -. "no secrets, no private records" .-> private
+

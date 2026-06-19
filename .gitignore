@@ -1,0 +1,25 @@
+# Local/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Secrets and local environment
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Never publish private operational payloads from this public surface
+data/
+artifacts/
+output/
+backups/
+node_modules/
+.next/
+src/
+scripts/
+deploy/
+

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Papercut public private boundary</title>
+  <desc id="desc">Diagram separating public repository materials from the private Papercut engine and review gates.</desc>
+  <rect width="1200" height="640" fill="#f6f0e6"/>
+  <text x="64" y="82" font-family="Arial, sans-serif" font-size="42" font-weight="800" fill="#101010">Public Surface / Private Engine</text>
+  <text x="66" y="116" font-family="Arial, sans-serif" font-size="18" fill="#4a4034">GitHub and WordPress explain the project. The app, records, and providers stay protected.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="170" width="310" height="330" rx="16" fill="#fffaf1" stroke="#101010" stroke-width="3"/>
+    <text x="100" y="218" font-size="28" font-weight="800" fill="#101010">PUBLIC</text>
+    <text x="100" y="264" font-size="18" fill="#101010">README and docs</text>
+    <text x="100" y="300" font-size="18" fill="#101010">Workflow diagrams</text>
+    <text x="100" y="336" font-size="18" fill="#101010">Approved assets</text>
+    <text x="100" y="372" font-size="18" fill="#101010">WordPress draft</text>
+    <text x="100" y="430" font-size="16" fill="#d9442e" font-weight="700">No source. No secrets. No records.</text>
+    <rect x="445" y="210" width="310" height="250" rx="16" fill="#101010"/>
+    <text x="482" y="260" font-size="28" font-weight="800" fill="#fffaf1">REVIEW GATES</text>
+    <text x="482" y="306" font-size="18" fill="#fffaf1">Authentication</text>
+    <text x="482" y="342" font-size="18" fill="#fffaf1">Review-only mode</text>
+    <text x="482" y="378" font-size="18" fill="#fffaf1">Per-item approval</text>
+    <text x="482" y="414" font-size="18" fill="#fffaf1">Receipt capture</text>
+    <rect x="820" y="170" width="310" height="330" rx="16" fill="#fffaf1" stroke="#101010" stroke-width="3"/>
+    <text x="850" y="218" font-size="28" font-weight="800" fill="#101010">PRIVATE</text>
+    <text x="850" y="264" font-size="18" fill="#101010">Source code</text>
+    <text x="850" y="300" font-size="18" fill="#101010">Vault and credentials</text>
+    <text x="850" y="336" font-size="18" fill="#101010">Uploads, faxes, packets</text>
+    <text x="850" y="372" font-size="18" fill="#101010">Workers, portals, ATS</text>
+    <text x="850" y="430" font-size="16" fill="#1f6f8b" font-weight="700">Protected operational system.</text>
+  </g>
+  <g stroke="#101010" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M380 335h64"/>
+    <path d="M432 322l14 13-14 13"/>
+    <path d="M756 335h64"/>
+    <path d="M808 322l14 13-14 13"/>
+  </g>
+</svg>
+

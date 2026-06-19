@@ -1,0 +1,19 @@
+flowchart LR
+  input["Paperwork input"]
+  queue["Private work queue"]
+  review["Review layer"]
+  dispatch["Gated dispatch"]
+  receipts["Receipts and follow-up"]
+  public["Public product surface"]
+  wordpress["FaithCheltenham.com"]
+  github["GitHub project surface"]
+
+  input --> queue
+  queue --> review
+  review --> dispatch
+  dispatch --> receipts
+  receipts --> queue
+  public --> wordpress
+  public --> github
+  public -. "explains, does not expose" .-> queue
+

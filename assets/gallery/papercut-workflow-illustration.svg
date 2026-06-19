@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Papercut workflow illustration</title>
+  <desc id="desc">Poster-style workflow illustration for Papercut public pages.</desc>
+  <rect width="1200" height="760" fill="#101010"/>
+  <rect x="60" y="60" width="1080" height="640" rx="20" fill="#f6f0e6"/>
+  <g transform="translate(110 130)">
+    <rect width="220" height="300" rx="12" fill="#fffaf1" stroke="#101010" stroke-width="5"/>
+    <path d="M38 64h142M38 112h110M38 160h154" stroke="#101010" stroke-width="9" stroke-linecap="round"/>
+    <text x="40" y="245" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#d9442e">INPUT</text>
+  </g>
+  <g transform="translate(490 130)">
+    <rect width="220" height="300" rx="12" fill="#fffaf1" stroke="#101010" stroke-width="5"/>
+    <path d="M40 70h140M40 120h140M40 170h140" stroke="#1f6f8b" stroke-width="12" stroke-linecap="round"/>
+    <text x="40" y="245" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#1f6f8b">REVIEW</text>
+  </g>
+  <g transform="translate(870 130)">
+    <rect width="220" height="300" rx="12" fill="#fffaf1" stroke="#101010" stroke-width="5"/>
+    <circle cx="75" cy="105" r="32" fill="#2f7a4f"/>
+    <circle cx="145" cy="105" r="32" fill="#d9442e"/>
+    <path d="M48 190h130" stroke="#101010" stroke-width="10" stroke-linecap="round"/>
+    <text x="40" y="245" font-family="Arial, sans-serif" font-size="25" font-weight="900" fill="#2f7a4f">RECEIPT</text>
+  </g>
+  <path d="M355 280h105M735 280h105" stroke="#101010" stroke-width="12" stroke-linecap="round"/>
+  <path d="M440 255l28 25-28 25M820 255l28 25-28 25" fill="none" stroke="#101010" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="110" y="565" font-family="Arial, sans-serif" font-size="56" font-weight="900" fill="#101010">Public surface. Private engine.</text>
+  <text x="114" y="615" font-family="Arial, sans-serif" font-size="28" fill="#101010">Papercut keeps the paperwork flow visible while the sensitive engine stays protected.</text>
+</svg>
+
