@@ -104,7 +104,7 @@ The private engine remains excluded:
 Papercut is an active private product with a separate public project surface.
 The current hosting direction is AIXYZ.tech.
 
-### Hosting Direction — 2026-11-09
+### Hosting Direction - 2026-11-09
 
 AIXYZ.tech is the intended host for the private Papercut app. Deployment,
 Google OAuth callback behavior, and the remote storage path have not been
@@ -124,7 +124,7 @@ Live provider-backed dispatch remains intentionally guarded. Review-only mode,
 SMTP readiness, Sinch fax readiness, portal worker readiness, ATS trust, and
 per-item approval all matter.
 
-### Local Verification — 2026-11-09
+### Local Verification - 2026-11-09
 
 The local California Benefits Desk build completed, and the synthetic training
 flow verified queue search, supervised practice, notification review, explicit
