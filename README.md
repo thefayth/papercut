@@ -101,14 +101,24 @@ The private engine remains excluded:
 
 ## Current Status
 
-Papercut is an active private product with a public share surface planned for:
+Papercut is an active private product with a separate public project surface.
+The current hosting direction is AIXYZ.tech.
+
+### Hosting Direction — 2026-11-09
+
+AIXYZ.tech is the intended host for the private Papercut app. Deployment,
+Google OAuth callback behavior, and the remote storage path have not been
+verified by this change. Do not treat an old route proposal as a live link.
+
+### Historical Route Proposals
+
+Earlier planning proposed these FaithCheltenham.com routes:
 
 - `https://faithcheltenham.com/papercutpublic`
-- proposed project page: `https://faithcheltenham.com/projects/papercut/`
-
-The working app uses a private app base path:
-
+- `https://faithcheltenham.com/projects/papercut/`
 - `https://faithcheltenham.com/papercutprivate`
+
+Those are historical proposals, not verified current app or login URLs.
 
 Live provider-backed dispatch remains intentionally guarded. Review-only mode,
 SMTP readiness, Sinch fax readiness, portal worker readiness, ATS trust, and
