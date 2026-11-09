@@ -57,6 +57,24 @@ providers who need high-trust paperwork operations with proof.
    per-item approval.
 6. Every meaningful action leaves a receipt.
 
+## California Benefits Desk
+
+Papercut includes a private California benefits preparation track for
+applications, renewals, reports, document requests, and monthly START activity
+packets. The workspace organizes reviewed facts and sources, approved
+documents, contradictions, deadlines, supervised portal steps, and follow-up
+receipts.
+
+Authentication, MFA, attestations, signatures, and final submission remain
+human-controlled. A local synthetic training flow is verified; this does not
+establish live BenefitsCal submission, DPSS acceptance, production deployment,
+or agency affiliation.
+
+For the public-safe, project-specific overview, see
+[Benefits Recovery Studio](https://github.com/thefayth/benefits-recovery-studio).
+The operational app, records, credentials, browser sessions, and packet files
+are not in that public repository.
+
 ## Public Surface
 
 The public materials may include:
@@ -95,6 +113,14 @@ The working app uses a private app base path:
 Live provider-backed dispatch remains intentionally guarded. Review-only mode,
 SMTP readiness, Sinch fax readiness, portal worker readiness, ATS trust, and
 per-item approval all matter.
+
+### Local Verification — 2026-11-09
+
+The local California Benefits Desk build completed, and the synthetic training
+flow verified queue search, supervised practice, notification review, explicit
+approval, and a training receipt at desktop and phone viewports. The Next.js
+security-upgrade reminder remains open. This is not a live portal or production
+deployment verification.
 
 ## Safety Model
 
